@@ -38,7 +38,7 @@ Before running the project, ensure you have the following dependencies installed
 - If the price drops below a certain threshold, an email notification is sent.
 
 ## Usage
-1. Update the `URL` variable in the `price_tracker.py` script to your desired product's URL.
+1. Update the `URL` variable in the script to your desired product's URL.
 2. Run the script.
 
 ## Contributing
