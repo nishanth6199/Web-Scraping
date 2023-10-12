@@ -11,7 +11,6 @@ Price monitoring of a product using Web Scraping in Python
 - [How It Works](#how-it-works)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This Python project demonstrates how to scrape product information from a website and track the price changes of a specific product. In this case, we are tracking the price of a Fossil watch on the Fossil website.
@@ -45,6 +44,5 @@ Before running the project, ensure you have the following dependencies installed
 ## Contributing
 If you want to contribute to this project or suggest improvements, please create an issue or a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
