@@ -29,7 +29,7 @@ Before running the project, ensure you have the following dependencies installed
 
 ## Getting Started
 1. Clone this repository to your local machine.
-2. Install the required Python packages by running `pip install -r requirements.txt`.
+2. Install the required Python packages.
 
 ## How It Works
 - The script scrapes the product title and price from the Fossil website using web scraping techniques.
